@@ -38,6 +38,8 @@ func (c *Cipher) Encode(data []byte) ([]byte, error) {
 
 // Decode decodes the mark
 func (c *Cipher) Decode(data []byte) ([]byte, error) {
-	separator := len(data) - c.aesGCM.NonceSize()
-	return c.aesGCM.Open(nil, data[separator:], data[:separator], nil)
+	if separator := len(data) - c.aesGCM.NonceSize(); separator > 0 {
+		return c.aesGCM.Open(nil, data[separator:], data[:separator], nil)
+	}
+	return nil, errors.New("impossible to decipher, noun size collision")
 }
