@@ -1,0 +1,27 @@
+syntax = "proto3";
+package example;
+
+option go_package = "pb/";
+
+message Example {
+  message attribute {
+    message value {
+      string ID = 1;
+      string Label = 2;
+      string Description = 3;
+      string Unit = 4;
+      string Values = 5;
+    }
+
+    string ID = 1;
+    string Label = 2;
+    string Description = 3;
+    repeated value Values = 4;
+  }
+
+  string ID = 1;
+  string Label = 2;
+  string Description = 3;
+  repeated attribute Attributes = 4;
+}
+
