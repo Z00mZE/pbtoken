@@ -1,0 +1,428 @@
+{"Time":"2022-11-10T01:12:06.8019069+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize"}
+{"Time":"2022-11-10T01:12:06.80242+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize","Output":"=== RUN   TestNewCipherWithNonceSize\n"}
+{"Time":"2022-11-10T01:12:06.80242+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short"}
+{"Time":"2022-11-10T01:12:06.80242+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short","Output":"=== RUN   TestNewCipherWithNonceSize/Short\n"}
+{"Time":"2022-11-10T01:12:06.80242+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal","Output":"=== RUN   TestNewCipherWithNonceSize/Normal\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long","Output":"=== RUN   TestNewCipherWithNonceSize/long\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#01"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#01","Output":"=== RUN   TestNewCipherWithNonceSize/Short#01\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#01"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#01","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#01\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#01"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#01","Output":"=== RUN   TestNewCipherWithNonceSize/long#01\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#02"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#02","Output":"=== RUN   TestNewCipherWithNonceSize/Short#02\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#02"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#02","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#02\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#02"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#02","Output":"=== RUN   TestNewCipherWithNonceSize/long#02\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#03"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#03","Output":"=== RUN   TestNewCipherWithNonceSize/Short#03\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#03"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#03","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#03\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#03"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#03","Output":"=== RUN   TestNewCipherWithNonceSize/long#03\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#04"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#04","Output":"=== RUN   TestNewCipherWithNonceSize/Short#04\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#04"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#04","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#04\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#04"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#04","Output":"=== RUN   TestNewCipherWithNonceSize/long#04\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#05"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#05","Output":"=== RUN   TestNewCipherWithNonceSize/Short#05\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#05"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#05","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#05\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#05"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#05","Output":"=== RUN   TestNewCipherWithNonceSize/long#05\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#06"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#06","Output":"=== RUN   TestNewCipherWithNonceSize/Short#06\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#06"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#06","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#06\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#06"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#06","Output":"=== RUN   TestNewCipherWithNonceSize/long#06\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#07"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#07","Output":"=== RUN   TestNewCipherWithNonceSize/Short#07\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#07"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#07","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#07\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#07"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#07","Output":"=== RUN   TestNewCipherWithNonceSize/long#07\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#08"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#08","Output":"=== RUN   TestNewCipherWithNonceSize/Short#08\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#08"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#08","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#08\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#08"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#08","Output":"=== RUN   TestNewCipherWithNonceSize/long#08\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#09"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#09","Output":"=== RUN   TestNewCipherWithNonceSize/Short#09\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#09"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#09","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#09\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#09"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#09","Output":"=== RUN   TestNewCipherWithNonceSize/long#09\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#10"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#10","Output":"=== RUN   TestNewCipherWithNonceSize/Short#10\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#10"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#10","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#10\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#10"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#10","Output":"=== RUN   TestNewCipherWithNonceSize/long#10\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#11"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#11","Output":"=== RUN   TestNewCipherWithNonceSize/Short#11\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#11"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#11","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#11\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#11"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#11","Output":"=== RUN   TestNewCipherWithNonceSize/long#11\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#12"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#12","Output":"=== RUN   TestNewCipherWithNonceSize/Short#12\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#12"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#12","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#12\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#12"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#12","Output":"=== RUN   TestNewCipherWithNonceSize/long#12\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#13"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#13","Output":"=== RUN   TestNewCipherWithNonceSize/Short#13\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#13"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#13","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#13\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#13"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#13","Output":"=== RUN   TestNewCipherWithNonceSize/long#13\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#14"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#14","Output":"=== RUN   TestNewCipherWithNonceSize/Short#14\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#14"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#14","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#14\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#14"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#14","Output":"=== RUN   TestNewCipherWithNonceSize/long#14\n"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#15"}
+{"Time":"2022-11-10T01:12:06.8029813+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#15","Output":"=== RUN   TestNewCipherWithNonceSize/Short#15\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#15"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#15","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#15\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#15"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#15","Output":"=== RUN   TestNewCipherWithNonceSize/long#15\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#16"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#16","Output":"=== RUN   TestNewCipherWithNonceSize/Short#16\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#16"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#16","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#16\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#16"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#16","Output":"=== RUN   TestNewCipherWithNonceSize/long#16\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#17"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#17","Output":"=== RUN   TestNewCipherWithNonceSize/Short#17\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#17"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#17","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#17\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#17"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#17","Output":"=== RUN   TestNewCipherWithNonceSize/long#17\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#18"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#18","Output":"=== RUN   TestNewCipherWithNonceSize/Short#18\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#18"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#18","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#18\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#18"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#18","Output":"=== RUN   TestNewCipherWithNonceSize/long#18\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#19"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#19","Output":"=== RUN   TestNewCipherWithNonceSize/Short#19\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#19"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#19","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#19\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#19"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#19","Output":"=== RUN   TestNewCipherWithNonceSize/long#19\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#20"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#20","Output":"=== RUN   TestNewCipherWithNonceSize/Short#20\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#20"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#20","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#20\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#20"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#20","Output":"=== RUN   TestNewCipherWithNonceSize/long#20\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#21"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#21","Output":"=== RUN   TestNewCipherWithNonceSize/Short#21\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#21"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#21","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#21\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#21"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#21","Output":"=== RUN   TestNewCipherWithNonceSize/long#21\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#22"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#22","Output":"=== RUN   TestNewCipherWithNonceSize/Short#22\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#22"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#22","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#22\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#22"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#22","Output":"=== RUN   TestNewCipherWithNonceSize/long#22\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#23"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#23","Output":"=== RUN   TestNewCipherWithNonceSize/Short#23\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#23"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#23","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#23\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#23"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#23","Output":"=== RUN   TestNewCipherWithNonceSize/long#23\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#24"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#24","Output":"=== RUN   TestNewCipherWithNonceSize/Short#24\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#24"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#24","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#24\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#24"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#24","Output":"=== RUN   TestNewCipherWithNonceSize/long#24\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#25"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#25","Output":"=== RUN   TestNewCipherWithNonceSize/Short#25\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#25"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#25","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#25\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#25"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#25","Output":"=== RUN   TestNewCipherWithNonceSize/long#25\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#26"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#26","Output":"=== RUN   TestNewCipherWithNonceSize/Short#26\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#26"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#26","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#26\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#26"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#26","Output":"=== RUN   TestNewCipherWithNonceSize/long#26\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#27"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#27","Output":"=== RUN   TestNewCipherWithNonceSize/Short#27\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#27"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#27","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#27\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#27"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#27","Output":"=== RUN   TestNewCipherWithNonceSize/long#27\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#28"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#28","Output":"=== RUN   TestNewCipherWithNonceSize/Short#28\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#28"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#28","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#28\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#28"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#28","Output":"=== RUN   TestNewCipherWithNonceSize/long#28\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#29"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#29","Output":"=== RUN   TestNewCipherWithNonceSize/Short#29\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#29"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#29","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#29\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#29"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#29","Output":"=== RUN   TestNewCipherWithNonceSize/long#29\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#30"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#30","Output":"=== RUN   TestNewCipherWithNonceSize/Short#30\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#30"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#30","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#30\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#30"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#30","Output":"=== RUN   TestNewCipherWithNonceSize/long#30\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#31"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#31","Output":"=== RUN   TestNewCipherWithNonceSize/Short#31\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#31"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#31","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#31\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#31"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#31","Output":"=== RUN   TestNewCipherWithNonceSize/long#31\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#32"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#32","Output":"=== RUN   TestNewCipherWithNonceSize/Short#32\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#32"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#32","Output":"=== RUN   TestNewCipherWithNonceSize/Normal#32\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#32"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#32","Output":"=== RUN   TestNewCipherWithNonceSize/long#32\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize","Output":"--- PASS: TestNewCipherWithNonceSize (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short","Output":"    --- PASS: TestNewCipherWithNonceSize/Short (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long","Output":"    --- PASS: TestNewCipherWithNonceSize/long (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#01","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#01 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#01","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#01","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#01 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#01","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#01","Output":"    --- PASS: TestNewCipherWithNonceSize/long#01 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#01","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#02","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#02 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#02","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#02","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#02 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#02","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#02","Output":"    --- PASS: TestNewCipherWithNonceSize/long#02 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#02","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#03","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#03 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#03","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#03","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#03 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#03","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#03","Output":"    --- PASS: TestNewCipherWithNonceSize/long#03 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#03","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#04","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#04 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#04","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#04","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#04 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#04","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#04","Output":"    --- PASS: TestNewCipherWithNonceSize/long#04 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#04","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#05","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#05 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#05","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8035455+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#05","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#05 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#05","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#05","Output":"    --- PASS: TestNewCipherWithNonceSize/long#05 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#05","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#06","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#06 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#06","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#06","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#06 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#06","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#06","Output":"    --- PASS: TestNewCipherWithNonceSize/long#06 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#06","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#07","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#07 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#07","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#07","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#07 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#07","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#07","Output":"    --- PASS: TestNewCipherWithNonceSize/long#07 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#07","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#08","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#08 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#08","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#08","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#08 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#08","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#08","Output":"    --- PASS: TestNewCipherWithNonceSize/long#08 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#08","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#09","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#09 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#09","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#09","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#09 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#09","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#09","Output":"    --- PASS: TestNewCipherWithNonceSize/long#09 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#09","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#10","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#10 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#10","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#10","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#10 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#10","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#10","Output":"    --- PASS: TestNewCipherWithNonceSize/long#10 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#10","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#11","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#11 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#11","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#11","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#11 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#11","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#11","Output":"    --- PASS: TestNewCipherWithNonceSize/long#11 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#11","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#12","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#12 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#12","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#12","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#12 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#12","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#12","Output":"    --- PASS: TestNewCipherWithNonceSize/long#12 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#12","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#13","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#13 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#13","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#13","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#13 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#13","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#13","Output":"    --- PASS: TestNewCipherWithNonceSize/long#13 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#13","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#14","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#14 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#14","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#14","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#14 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#14","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#14","Output":"    --- PASS: TestNewCipherWithNonceSize/long#14 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#14","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#15","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#15 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#15","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#15","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#15 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#15","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#15","Output":"    --- PASS: TestNewCipherWithNonceSize/long#15 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#15","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#16","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#16 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#16","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#16","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#16 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#16","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#16","Output":"    --- PASS: TestNewCipherWithNonceSize/long#16 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#16","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#17","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#17 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#17","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#17","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#17 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#17","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#17","Output":"    --- PASS: TestNewCipherWithNonceSize/long#17 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#17","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#18","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#18 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#18","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#18","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#18 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#18","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#18","Output":"    --- PASS: TestNewCipherWithNonceSize/long#18 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#18","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#19","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#19 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#19","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#19","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#19 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#19","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#19","Output":"    --- PASS: TestNewCipherWithNonceSize/long#19 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#19","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#20","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#20 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#20","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#20","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#20 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#20","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#20","Output":"    --- PASS: TestNewCipherWithNonceSize/long#20 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#20","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#21","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#21 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#21","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#21","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#21 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#21","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#21","Output":"    --- PASS: TestNewCipherWithNonceSize/long#21 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#21","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#22","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#22 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#22","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#22","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#22 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#22","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#22","Output":"    --- PASS: TestNewCipherWithNonceSize/long#22 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#22","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#23","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#23 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#23","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#23","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#23 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#23","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#23","Output":"    --- PASS: TestNewCipherWithNonceSize/long#23 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#23","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#24","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#24 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#24","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#24","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#24 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#24","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#24","Output":"    --- PASS: TestNewCipherWithNonceSize/long#24 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#24","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#25","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#25 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#25","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#25","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#25 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#25","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#25","Output":"    --- PASS: TestNewCipherWithNonceSize/long#25 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#25","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#26","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#26 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#26","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#26","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#26 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#26","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#26","Output":"    --- PASS: TestNewCipherWithNonceSize/long#26 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#26","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#27","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#27 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#27","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#27","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#27 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#27","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#27","Output":"    --- PASS: TestNewCipherWithNonceSize/long#27 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#27","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#28","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#28 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#28","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#28","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#28 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#28","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#28","Output":"    --- PASS: TestNewCipherWithNonceSize/long#28 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.804096+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#28","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#29","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#29 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#29","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#29","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#29 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#29","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#29","Output":"    --- PASS: TestNewCipherWithNonceSize/long#29 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#29","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#30","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#30 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#30","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#30","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#30 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#30","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#30","Output":"    --- PASS: TestNewCipherWithNonceSize/long#30 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#30","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#31","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#31 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#31","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#31","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#31 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#31","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#31","Output":"    --- PASS: TestNewCipherWithNonceSize/long#31 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#31","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#32","Output":"    --- PASS: TestNewCipherWithNonceSize/Short#32 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Short#32","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#32","Output":"    --- PASS: TestNewCipherWithNonceSize/Normal#32 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/Normal#32","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#32","Output":"    --- PASS: TestNewCipherWithNonceSize/long#32 (0.00s)\n"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize/long#32","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestNewCipherWithNonceSize","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestCipher_EncodeDecode"}
+{"Time":"2022-11-10T01:12:06.8046452+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestCipher_EncodeDecode","Output":"=== RUN   TestCipher_EncodeDecode\n"}
+{"Time":"2022-11-10T01:12:06.8086122+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestCipher_EncodeDecode","Output":"--- PASS: TestCipher_EncodeDecode (0.01s)\n"}
+{"Time":"2022-11-10T01:12:06.8086122+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Test":"TestCipher_EncodeDecode","Elapsed":0.01}
+{"Time":"2022-11-10T01:12:06.8091373+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Output":"PASS\n"}
+{"Time":"2022-11-10T01:12:06.8240972+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/cipher","Output":"ok  \tgithub.com/Z00mZE/pbtoken/cipher\t0.043s\n"}
+{"Time":"2022-11-10T01:12:06.8275662+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/cipher","Elapsed":0.046}
+{"Time":"2022-11-10T01:12:06.8287037+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/pb","Output":"?   \tgithub.com/Z00mZE/pbtoken/pb\t[no test files]\n"}
+{"Time":"2022-11-10T01:12:06.8287037+03:00","Action":"skip","Package":"github.com/Z00mZE/pbtoken/pb","Elapsed":0}
+{"Time":"2022-11-10T01:12:06.9938542+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestSuccess"}
+{"Time":"2022-11-10T01:12:06.9938542+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestSuccess","Output":"=== RUN   TestSuccess\n"}
+{"Time":"2022-11-10T01:12:07.0127975+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestSuccess","Output":"--- PASS: TestSuccess (0.02s)\n"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestSuccess","Elapsed":0.02}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkPointerIsNil"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkPointerIsNil","Output":"=== RUN   TestMarkPointerIsNil\n"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkPointerIsNil","Output":"--- PASS: TestMarkPointerIsNil (0.00s)\n"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkPointerIsNil","Elapsed":0}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkIsNil"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkIsNil","Output":"=== RUN   TestMarkIsNil\n"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkIsNil","Output":"--- PASS: TestMarkIsNil (0.00s)\n"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestMarkIsNil","Elapsed":0}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"run","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestEncodedStringIsGarbage"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestEncodedStringIsGarbage","Output":"=== RUN   TestEncodedStringIsGarbage\n"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestEncodedStringIsGarbage","Output":"--- PASS: TestEncodedStringIsGarbage (0.00s)\n"}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/wrapper","Test":"TestEncodedStringIsGarbage","Elapsed":0}
+{"Time":"2022-11-10T01:12:07.0133619+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Output":"PASS\n"}
+{"Time":"2022-11-10T01:12:07.0274107+03:00","Action":"output","Package":"github.com/Z00mZE/pbtoken/wrapper","Output":"ok  \tgithub.com/Z00mZE/pbtoken/wrapper\t0.056s\n"}
+{"Time":"2022-11-10T01:12:07.0317511+03:00","Action":"pass","Package":"github.com/Z00mZE/pbtoken/wrapper","Elapsed":0.06}
